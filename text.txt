@@ -1,0 +1,14 @@
+git config --global user.name "salmaramisha11"
+git config --global user.email "salmaramisha11@gmail.com"
+
+git init 
+
+git remote add origin https://github.com/salmaramisha11/software.git
+
+git branch M-master
+
+git add text.txt
+
+git commit -m "HI"
+
+git push -u origin master
